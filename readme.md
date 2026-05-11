@@ -71,15 +71,6 @@ python test.py
 
 ## Table of Contents
 
-- [项目名称：HIMPI](#项目名称himpi)
-  - [目录](#目录)
-  - [环境要求](#环境要求)
-  - [数据集](#数据集)
-    - [数据集位置](#数据集位置)
-    - [下载文件](#下载文件)
-  - [训练及测试](#训练及测试)
-    - [训练命令](#训练命令)
-    - [测试命令](#测试命令)
 - [Project Name: HIMPI](#project-name-himpi)
   - [Table of Contents](#table-of-contents)
   - [Requirements](#requirements)
